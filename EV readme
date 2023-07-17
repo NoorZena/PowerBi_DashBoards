@@ -1,0 +1,40 @@
+Dashboard for Electric Vehicle (EV) Sales in King County
+
+Overview
+This project focuses on the analysis and visualization of sales data for electric vehicles (EVs) in King County. The goal is to gain insights into the trends of EV sales and create an interactive dashboard to aid in decision-making.
+
+Data Source
+The data for this project was obtained from an Excel file. It underwent processing and cleaning to eliminate duplicates and ensure data accuracy before visualization.
+
+Tools Used
+Power BI Desktop: Utilized for creating visuals and designing the dashboard.
+Power BI Web Service: Accessed to view and interact with the created dashboard and reports online.
+
+Project Steps
+Data Cleaning: Duplicate records were removed, and the data was cleaned to guarantee accuracy and reliability.
+Visualizations: Various charts, graphs, and visual elements were generated in Power BI Desktop to effectively represent the EV sales data.
+Dashboard Creation: All the visualizations were consolidated into a single interactive dashboard on Power BI Desktop, providing a comprehensive view of EV sales in King County.
+Power BI Service: The dashboard and reports were published to the Power BI web service, enabling easy access and collaboration.
+Data Analysis: The interactive dashboard allows for data exploration through filters, drill-down capabilities, and the "Analyze" feature, which unveils insights behind specific trends or peaks in the graphs.
+
+Repository Structure
+The GitHub repository for this project contains the following files:
+
+Summary Report: Presents a high-level overview of EV sales in King County, featuring key insights and summary visualizations.
+Detailed Report: Offers a comprehensive analysis of EV sales data, providing detailed visualizations and additional insights.
+
+How to Access the Dashboard
+To access the Electric Vehicles Sales Dashboard, follow these steps:
+
+Open a web browser and go to the Power BI web service (https://app.powerbi.com/).
+Sign in using your Power BI account credentials.
+Locate the "Electric Vehicles Sales" report or dashboard.
+Click on the report or dashboard to view the visualizations and interact with the data.
+
+Additional Features
+Interactivity: The dashboard allows users to explore the data by applying filters, selecting specific time periods, and interacting with the visuals.
+Analytical Capabilities: Right-clicking on data points in the graphs enables users to conduct in-depth analysis, uncover patterns, and gain insights into the underlying reasons for specific trends or peaks.
+
+Notes
+Make sure you have Power BI Desktop installed on your local machine to modify or update the dashboard.
+The dashboard and reports may require periodic updates as new EV sales data becomes available.
